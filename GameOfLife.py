@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 '''
     Idea : https://www.youtube.com/watch?v=xgZuW6Jz5dc&ab_channel=NotCSV - Carlos Santana Vega
 '''
